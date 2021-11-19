@@ -25,4 +25,4 @@ else {
     prezzoBiglietto = prezzoBiglietto;
 }
 
-console.log(prezzoBiglietto.toFixed(2));
+console.log('il prezzo totale del biglietto è', prezzoBiglietto.toFixed(2));
